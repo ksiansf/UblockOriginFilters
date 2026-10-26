@@ -12,3 +12,8 @@ nytimes.com##+js(trusted-replace-fetch-response, messageSelection, m, samizdat-g
 ! AliExpress: remove sponsored product cards and their grid slots
 de.aliexpress.com##.list--gallery--C2f2tvm:has(.us--outWrapper--3XPpnK5:has(.us--ax--3w9tvUI))
 de.aliexpress.com##.list--gallery--C2f2tvm:has(.us--outWrapper--3XPpnK5 .us--rainbow--2pxiMKY .us--title--1W4lUoB:has-text(Combo Blast))
+
+
+! ChatGPT — hide ads inside the turns UI after messages
+! Source: https://chatgpt.com
+chatgpt.com##._eXRE3lstq1._toiJDcjFTU._gKE8bwI1G2
