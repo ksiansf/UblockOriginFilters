@@ -1,5 +1,51 @@
-! 20 Jul 2026 https://www.ebay.de
+! Mar 1, 2026 https://adultprime.com
+adultprime.com##.hidden-sm.col-md-4
+
+! AliExpress: remove sponsored product cards and their grid slots
+de.aliexpress.com##.list--gallery--C2f2tvm:has(.us--outWrapper--3XPpnK5:has(.us--ax--3w9tvUI))
+de.aliexpress.com##.list--gallery--C2f2tvm:has(.us--outWrapper--3XPpnK5 .us--rainbow--2pxiMKY .us--title--1W4lUoB:has-text(Combo Blast))
+
+! ChatGPT — hide ads inside the turns UI after messages
+! Source: https://chatgpt.com
+chatgpt.com##._eXRE3lstq1._toiJDcjFTU._gKE8bwI1G2
+
+
+! Jun 20, 2026 https://www.ebay.de
+www.ebay.de##.dp-live-events-carousel
+www.ebay.de##.lg\:px-600.md\:px-400.px-0.page-grid-container.mx-auto.max-w-screen
+www.ebay.de##.md\:p-400.md\:gap-y-300.md\:gap-x-200.md\:grid.rounded-100.flex-col.flex.border-subtle.border-solid.border-1.dp-interests-module
+www.ebay.de##.hp-xl2\:rounded-100.hp-xl2\:border-solid.hp-xl2\:border-0.hp-xl2\:h-\[436px\].hp-xl\:rounded-none.hp-xl\:border-none.hp-xl\:border-0.hp-md\:rounded-none.hp-md\:border-none.hp-md\:border-0.\@container.overflow-hidden.dp-evo-banner-color-module--homepage-item--container
+
+! Jul 15, 2026 https://www.ebay.de
 www.ebay.de##.srp-river-answer--LIVE_EVENTS_CAROUSEL.srp-river-answer
+
+! Jul 20, 2026 https://www.ebay.de
+www.ebay.de##.srp-river-answer--LIVE_EVENTS_CAROUSEL.srp-river-answer
+www.ebay.de##.defaultGap.flex-col.flex > .hp-lg\:h-\[360px\]
+
+! Oct 19, 2026 https://www.erogarga.com
+www.erogarga.com##.entry-head
+
+! Dec 6, 2025 https://faphouse.com
+faphouse.com###video-fan-join-inline-form
+
+! Dec 10, 2025 https://faphouse.com
+faphouse.com##.modal__container
+faphouse.com##.modal_scrollable.modal__dark.modal__top-padding.modal.go3421813524
+faphouse.com##.modal-bg
+
+! Jul 11, 2026 https://faphouse.com
+faphouse.com##.modal_scrollable.modal__dark.modal__top-padding.modal.go2793697199
+
+! Mar 30, 2026 https://www.fucker.com
+www.fucker.com##.twocolumns > .second.col
+www.fucker.com##div.section:nth-of-type(4)
+
+! Jan 10, 2026 https://www.livemint.com
+www.livemint.com##.modal-wrapper_popup__HsoUu
+
+! Jan 10, 2025 https://www.metaporn.com
+www.metaporn.com##div.paid.group.sub.card
 
 ||meter-svc.nytimes.com^
 nytimes.com##+js(cookie-remover, /^/)
@@ -8,12 +54,126 @@ nytimes.com##+js(json-prune-fetch-response, data.user.messageSelection)
 nytimes.com##+js(json-prune-xhr-response, data.user.messageSelection)
 nytimes.com##+js(trusted-replace-fetch-response, messageSelection, m, samizdat-graphql)
 
+! Aug 23, 2026 https://ok.ru
+ok.ru##.__with-caption.h-mod.__header-redesign.js-video-scope.feed
+ok.ru##div.feed-w:nth-of-type(3)
+ok.ru##div.feed-w:nth-of-type(4) > .h-mod.__header-redesign.js-video-scope.feed
+ok.ru##.h-mod.__no-ava.__compact.js-video-scope.feed
+ok.ru##div.feed-w:nth-of-type(12)
+ok.ru##.portlet_app_continue_wrapper.Island_island
+ok.ru###hook_Block_AdditionalColumn > .hookBlock
 
-! AliExpress: remove sponsored product cards and their grid slots
-de.aliexpress.com##.list--gallery--C2f2tvm:has(.us--outWrapper--3XPpnK5:has(.us--ax--3w9tvUI))
-de.aliexpress.com##.list--gallery--C2f2tvm:has(.us--outWrapper--3XPpnK5 .us--rainbow--2pxiMKY .us--title--1W4lUoB:has-text(Combo Blast))
+! Apr 2, 2025 https://www.sensualgirls.org
+www.sensualgirls.org###box_600_frame_content
+www.sensualgirls.org###box_574_frame_content
 
+! Jun 18, 2025 https://superetka.com
+superetka.com##.time1Over
 
-! ChatGPT — hide ads inside the turns UI after messages
-! Source: https://chatgpt.com
-chatgpt.com##._eXRE3lstq1._toiJDcjFTU._gKE8bwI1G2
+! Jul 12, 2025 https://superetka.com
+superetka.com##.show.fade.modal-backdrop
+
+! Feb 16, 2025 https://www.thepervtube.com
+www.thepervtube.com##.with-sidebar-right.widget-area
+
+! Feb 1, 2026 https://thepervtube.com
+thepervtube.com##.under-video-block > .chaturbate-cams-widget.widget
+thepervtube.com###sidebar > .chaturbate-cams-widget.widget
+thepervtube.com###main > .chaturbate-cams-widget.widget
+
+! May 7, 2026 https://www.thepornstar.com
+www.thepornstar.com##div.item > [href^="https://www.tckcandy.com/cmp/"]
+
+! Jun 5, 2026 https://xfeed.com
+xfeed.com##div.column:nth-of-type(2)
+
+! Dec 6, 2025 https://xhamster44.desi
+xhamster44.desi##.wrapper-dab84
+
+! Dec 11, 2025 https://xhamster44.desi
+xhamster44.desi##.Cn-HNdsp-a.Cn-HNdsp-b
+
+! Feb 22, 2026 https://xhamster44.desi
+xhamster44.desi##.atpfv-mYsp-a.atpfv-mYsp-b
+
+! Feb 25, 2026 https://xhamster44.desi
+xhamster44.desi##.roT-xABQno-ts-init.roT-xABQ.roT-xABQplayer
+xhamster44.desi##.player-container > div:nth-of-type(2)
+xhamster44.desi##.roT-xABQ.roT-xABQbottom-widget-section
+xhamster44.desi##.width-wrap.roT-xABQclipstore-bottom
+
+! Mar 28, 2026 https://xhamster45.desi
+xhamster45.desi##._2cee2dc1._5295b693._6255abc2.ecd56811 > .primary-48288.root-48288
+xhamster45.desi##.Ox-wAsp-a.Ox-wAsp-b
+
+! Mar 30, 2026 https://xhamster45.desi
+xhamster45.desi##.wrapper-dab84
+xhamster45.desi##.KZ-JLaYsp-a.KZ-JLaYsp-b
+
+! Title: Hide YouTube Shorts
+! Description: Hide all traces of YouTube shorts videos on YouTube
+! Version: 1.10.0
+! Last modified: 2024-08-31 19:24
+! Expires: 2 weeks (update frequency)
+! Homepage: https://github.com/gijsdev/ublock-hide-yt-shorts
+! License: https://github.com/gijsdev/ublock-hide-yt-shorts/blob/master/LICENSE.md
+
+! Remove empty spaces in grid
+www.youtube.com##ytd-rich-grid-row,#contents.ytd-rich-grid-row:style(display: contents !important)
+
+! Hide all videos containing the phrase "#shorts"
+www.youtube.com##ytd-grid-video-renderer:has(#video-title:has-text(/(^| )#Shorts?( |$)/i))
+www.youtube.com##ytd-rich-item-renderer:has(#video-title:has-text(/(^| )#Shorts?( |$)/i))
+
+! Hide all videos with the shorts indicator on the thumbnail
+www.youtube.com##ytd-grid-video-renderer:has([overlay-style="SHORTS"])
+www.youtube.com##ytd-rich-item-renderer:has([overlay-style="SHORTS"])
+www.youtube.com##ytd-video-renderer:has([overlay-style="SHORTS"])
+www.youtube.com##ytd-item-section-renderer.ytd-section-list-renderer[page-subtype="subscriptions"]:has(ytd-video-renderer:has([overlay-style="SHORTS"]))
+
+! Hide shorts button in sidebar
+www.youtube.com##ytd-guide-entry-renderer:has(yt-formatted-string:has-text(/^Shorts$/i))
+
+! Tablet resolution
+www.youtube.com##ytd-mini-guide-entry-renderer:has(.title:has-text(/^Shorts$/i))
+
+! Hide shorts sections except on history page
+www.youtube.com##:matches-path(/^(?!\/feed\/history).*$/)ytd-rich-section-renderer:has(#title:has-text(/(^| )Shorts( |$)/i))
+www.youtube.com##:matches-path(/^(?!\/feed\/history).*$/)ytd-reel-shelf-renderer:has(.ytd-reel-shelf-renderer:has-text(/(^| )Shorts( |$)/i))
+
+! Hide shorts tab on channel pages`
+! Old style
+www.youtube.com##tp-yt-paper-tab:has(.tp-yt-paper-tab:has-text(Shorts))
+
+! New style (2023-10)
+www.youtube.com##yt-tab-shape:has-text(/^Shorts$/)
+
+! Hide short remixes in video descriptions and in suggestions beside the comments
+www.youtube.com##ytd-reel-shelf-renderer:has(#title:has-text(/(^| )Shorts.?Remix.*$/i))
+
+! Hide shorts category on homepage and search pages
+www.youtube.com##yt-chip-cloud-chip-renderer:has(yt-formatted-string:has-text(/^Shorts$/i))
+
+! Jan 8, 2025 https://www.youtube.com
+!www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(3)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
+www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(5)
+
+! most relevant from subscriptions
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-rich-section-renderer
+
+! block upcoming, currently live, and past streams
+youtube.com##ytd-rich-item-renderer:has(button):has-text(/Notify me/)
+youtube.com##ytd-rich-item-renderer:has(yt-thumbnail-view-model):has-text(/LIVE/)
+youtube.com##ytd-rich-item-renderer:has(div.yt-content-metadata-view-model__metadata-row):has-text(/Streamed/)
+
+! filter upcoming
+www.youtube.com##ytd-browse ytd-grid-video-renderer:has(ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"])
+www.youtube.com##ytd-browse ytd-rich-item-renderer:has(ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"])
+www.youtube.com##ytd-browse[page-subtype="subscriptions"] ytd-video-renderer ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"]:upward(ytd-item-section-renderer)
+
+! Feb 22, 2026 https://www.youtube.com
+www.youtube.com##.paper-toast-open.yt-notification-action-renderer.style-scope.toast-button
+
+! Aug 13, 2026 https://www.youtube.com
+www.youtube.com###dismissibleer > .button
